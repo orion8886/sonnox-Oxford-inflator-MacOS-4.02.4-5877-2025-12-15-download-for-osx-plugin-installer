@@ -1,0 +1,32 @@
+IK Multimedia Releases
+
+[Windows]
+01.Uninstall previous versions.
+02.Install the software.
+03.Run our keygen.
+04.Select a product.
+05.Push "Automatic Registration (Windows)".
+06.Enjoy!
+
+[MacOSX]
+01.Uninstall previous versions.
+02.Install the software.
+03.Make your computer offline.
+04.Run Authorization Manager.
+05.Start offline authorization.
+06.Save authorization file.
+07.Run our keygen on Windows.
+08.Select a product.
+09.Generate a Serial Number.
+10.Click "Get From Authorization Requset File" and open a request file (*.html).
+11.Push "Generate For Other Computers" and save the authorization file.
+12.Open the generated file with Authorization Manager.
+13.Enjoy!
+
+
+NOTE :
+To activate Syntronik and Philharmonik2, you also need to activate SampleTank3.
+All current sample based products are based on SampleTank3.
+
+
+TEAM R2R 2017
